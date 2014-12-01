@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cuentas>
+	<cuenta>
+		<id>1</id>
+		<fecha>10/11/2013</fecha>
+		<cantidadCargo>1000</cantidadCargo>
+	</cuenta>
+	<cuenta>
+		<id>2</id>
+		<fecha>20/06/2010</fecha>
+		<cantidadCargo>2500</cantidadCargo>
+	</cuenta>
+	<cuenta>
+		<id>3</id>
+		<fecha>15/02/2013</fecha>
+		<cantidadCargo>500</cantidadCargo>
+	</cuenta>
+	<cuenta>
+		<id>4</id>
+		<fecha>23/3/2011</fecha>
+		<cantidadCargo>80</cantidadCargo>
+	</cuenta>
+
+</cuentas>
